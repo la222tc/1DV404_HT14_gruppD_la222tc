@@ -1,0 +1,6 @@
+c:\users\linus\documents\visual studio 2013\Projects\Uppgift3b\Uppgift3b\bin\Debug\Uppgift3b.exe.config
+C:\Users\Linus\documents\visual studio 2013\Projects\Uppgift3b\Uppgift3b\bin\Debug\Uppgift3b.exe
+C:\Users\Linus\documents\visual studio 2013\Projects\Uppgift3b\Uppgift3b\bin\Debug\Uppgift3b.pdb
+C:\Users\Linus\documents\visual studio 2013\Projects\Uppgift3b\Uppgift3b\obj\Debug\Uppgift3b.csprojResolveAssemblyReference.cache
+C:\Users\Linus\documents\visual studio 2013\Projects\Uppgift3b\Uppgift3b\obj\Debug\Uppgift3b.exe
+C:\Users\Linus\documents\visual studio 2013\Projects\Uppgift3b\Uppgift3b\obj\Debug\Uppgift3b.pdb
